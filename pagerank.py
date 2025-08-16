@@ -4,7 +4,7 @@ import re
 import sys
 
 DAMPING = 0.85
-SAMPLES = 10000
+SAMPLES = 10000 ## prendre a chaque fois une valeur aleatoir de chaque noeud pour créer a sample de page rank
 
 
 def main():
